@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781081346824",
+    "project_id": "projetoglossario",
+    "storage_bucket": "projetoglossario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781081346824:android:e28679c3736c01110c62bd",
+        "android_client_info": {
+          "package_name": "projetoglossario.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ya1G6Zq4WpoKEgGsoengMb4bWbmO64M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
